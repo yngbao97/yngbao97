@@ -17,7 +17,7 @@
 >- SQL - 맛보기 독학(SQLD)
 >- JAVA - 약 4개월 독학
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=undeadtimo&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yngbao97&show_icons=true&theme=radical)
 
 ### 🎇TMI
 >- 사는 곳: 서울, 7호선 상봉역
