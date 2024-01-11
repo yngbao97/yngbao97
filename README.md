@@ -3,7 +3,7 @@
 ### ⌚ 지금을 살자
 >과거에 얽매이지 말고, 미리 걱정하지 말자
 
-### 📺 그게 뭔데 씹덕아
+### 📺 그게 뭔데 십덕아
 >- 일본어를 마스터하지 못한 일본어 전공자
 >- 애니 좋아해요(기억은 잘 못함)
 
@@ -16,6 +16,8 @@
 ### 📂개발 언어 공부
 >- SQL - 맛보기 독학(SQLD)
 >- JAVA - 약 4개월 독학
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=undeadtimo&show_icons=true&theme=radical)
 
 ### 🎇TMI
 >- 사는 곳: 서울, 7호선 상봉역
