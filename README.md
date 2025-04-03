@@ -161,3 +161,5 @@
 - FastAPI와 WebRTC를 활용한 실시간 영상 처리 시스템 설계
 - FFmpeg을 활용한 실시간 인코딩 및 RTMP 스트리밍 구현
 - 성능 최적화를 위한 아키텍처 개선
+
+[![hits](https://badgecounter-566gjg4z7q-uc.a.run.app?url=https%3A%2F%2Fgithub.com%2Fyngbao97&title=hits&title_bg=555555&count_bg=79c83d&edge_flat=false)](https://github.com/yngbao97)
