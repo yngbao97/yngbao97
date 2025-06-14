@@ -1,5 +1,5 @@
 [![hits](https://badgecounter-566gjg4z7q-uc.a.run.app?url=https%3A%2F%2Fgithub.com%2Fyngbao97&title=hits&title_bg=555555&count_bg=79c83d&edge_flat=false)](https://github.com/yngbao97)
-[![Hits](https://hitmeup-backend-593087166771.asia-northeast3.run.app/api/count/increment?url=https%3A%2F%2Fgithub.com%2Fyngbao97&title=hits&title_bg=555555&count_bg=79c83d&edge_flat=false)](https://hitmeup-backend-593087166771.asia-northeast3.run.app)
+[![Hits](https://hitmeup-backend-593087166771.asia-northeast1.run.app/api/count/increment?url=https%3A%2F%2Fgithub.com%2Fyngbao97&title=hits&title_bg=555555&count_bg=79c83d&edge_flat=false)](https://hitmeup-backend-593087166771.asia-northeast1.run.app)
 
 # YUK YE JIN 🌱
 
